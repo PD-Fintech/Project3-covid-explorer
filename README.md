@@ -54,7 +54,7 @@ This will include:
 10. Finally, our last function allows the user to search for a patient ID and check if they've been vaccinated
 
 ## Chatbot 
-* we used (https://app.chatbot.com) to create our chat bot where we collected vaccine realited data from the australian government website and moulded it into a conversation between the bot and the user. we used buttons to link the diffrent age groups and linking it to there segregated block of data.  
+* we used (https://app.chatbot.com) to create our slack chat bot where we collected vaccine realited data from the australian government website and moulded it into a conversation between the bot and the user. we used buttons to link the diffrent age groups and linking it to there segregated block of data.  
 
 ### Development Instruction
 
