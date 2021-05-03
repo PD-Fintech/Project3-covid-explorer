@@ -65,7 +65,7 @@ This will include:
 * Streamlit
 * Altair to display graph using streamlit
 * Solidity
-* Chatboat
+* Chatbot
 * Metamask
 * pinata
 
