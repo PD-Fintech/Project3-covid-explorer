@@ -52,7 +52,9 @@ This will include:
 8. This function will then mint a non-fungible token using the patient's address and ID number and set the token URI, as well as update the patient's profile with the vaccine data.
 9. Modifier's were created to restrsict function access and to ensure only the right data can be inputted, since this contract interacts with a blockchain and hence immutable, we do not want to waste gas fees on data errors or accidentally input incorrect data.
 10. Finally, our last function allows the user to search for a patient ID and check if they've been vaccinated
-           
+
+## Chatbot 
+* we used (https://app.chatbot.com) to create our slack chat bot where we collected vaccine realited data from the australian government website and moulded it into a conversation between the bot and the user. we used buttons to link the diffrent age groups and linking it to there segregated block of data.  
 
 ### Development Instruction
 
@@ -159,7 +161,9 @@ The following example demonstrates initializing a Git repository for an app that
 <summary>Data Source</summary>
 <p>
 1. https://github.com/owid/covid-19-data <br>
-2. https://ourworldindata.org/covid-vaccinations
+2. https://ourworldindata.org/covid-vaccinations <br>
+3. https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/when-will-i-get-a-covid-19-vaccine <br>
+4. https://www.coronavirus.vic.gov.au/book-your-vaccine-appointment#where-you-can-receive-a-covid-19-vaccine <br>
 </p>
 </details>
 <details>
@@ -169,6 +173,7 @@ The following example demonstrates initializing a Git repository for an app that
  2. https://streamlit.io/gallery?type=apps&category=geography-society<br>
  3. https://www.youtube.com/watch?v=k-d27B5hnqc <br>
  4. https://github.com/E-Health/vac-chain/blob/develop/contracts/Encounter.sol <br>
+ 5. https://app.chatbot.com/dashboard/608903c2be6c8d0007f958a1 <br>
  </p>
 
 </details>
