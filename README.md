@@ -52,7 +52,9 @@ This will include:
 8. This function will then mint a non-fungible token using the patient's address and ID number and set the token URI, as well as update the patient's profile with the vaccine data.
 9. Modifier's were created to restrsict function access and to ensure only the right data can be inputted, since this contract interacts with a blockchain and hence immutable, we do not want to waste gas fees on data errors or accidentally input incorrect data.
 10. Finally, our last function allows the user to search for a patient ID and check if they've been vaccinated
-           
+
+## Chatbot 
+* we used (https://app.chatbot.com) to create our chat bot where we collected vaccine realited data from the australian government website and moulded it into a conversation between the bot and the user. we used buttons to link the diffrent age groups and linking it to there segregated block of data.  
 
 ### Development Instruction
 
