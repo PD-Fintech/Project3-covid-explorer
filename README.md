@@ -160,6 +160,9 @@ The following example demonstrates initializing a Git repository for an app that
  2. https://streamlit.io/gallery?type=apps&category=geography-society<br>
  3. https://www.youtube.com/watch?v=k-d27B5hnqc <br>
  4. https://github.com/E-Health/vac-chain/blob/develop/contracts/Encounter.sol <br>
+ 5. https://app.chatbot.com/dashboard/608903c2be6c8d0007f958a1 <br>
+ 6. https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/when-will-i-get-a-covid-19-vaccine <br>
+ 7. https://www.coronavirus.vic.gov.au/book-your-vaccine-appointment#where-you-can-receive-a-covid-19-vaccine <br>
  </p>
 
 </details>
